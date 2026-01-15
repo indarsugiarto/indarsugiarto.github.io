@@ -1,12 +1,13 @@
 # This is my kingdom come...
 
 Collection of Youtube videos
+
 ***
 
 # STEM
 ## Maths
 - [Best Explanation of Taylor Series on Internet!](https://www.youtube.com/watch?v=q1a1j3lpmgE)
-- [Eigenvectors and eigenvalues | Chapter 14, Essence of linear algebra](https://www.youtube.com/watch?v=PFDu9oVAE-g)
+- [Eigenvectors and eigenvalues :: Chapter 14, Essence of linear algebra](https://www.youtube.com/watch?v=PFDu9oVAE-g)
 
 ***
 
@@ -17,8 +18,8 @@ Collection of Youtube videos
 
 ## Basic Maths
 - [Principal Component Analysis (PCA) Step-by-Step With a Complete Example](https://www.youtube.com/watch?v=xyb2sY2FMYg)
-- [Singular Value Decomposition (SVD) | Step-By-Step Example and Explanation](https://www.youtube.com/watch?v=f8DVtPvqtwc)
-- [What is Jacobian? | The right way of thinking derivatives and integrals](https://www.youtube.com/watch?v=wCZ1VEmVjVo)
+- [Singular Value Decomposition (SVD) :: Step-By-Step Example and Explanation](https://www.youtube.com/watch?v=f8DVtPvqtwc)
+- [What is Jacobian? :: The right way of thinking derivatives and integrals](https://www.youtube.com/watch?v=wCZ1VEmVjVo)
 
 ## AI Agents (and Agentic...)
 - [Anatomy of AI Agents: Inside LLMs, RAG Systems, & Generative AI](https://www.youtube.com/watch?v=CAKGKkWf0tI)
@@ -31,7 +32,7 @@ Collection of Youtube videos
 
 # Engineering
 ## Robotics
-- [Progress made on AI-powered humanoid robots | 60 Minutes](https://www.youtube.com/watch?v=CbHeh7qwils)
+- [Progress made on AI-powered humanoid robots :: 60 Minutes](https://www.youtube.com/watch?v=CbHeh7qwils)
 - [MentorPi Open Source Robot Car: ROS2 & Raspberry Pi 5](https://www.youtube.com/watch?v=cUjPJp_xUIc)
 
 ***
