@@ -38,6 +38,7 @@ Romanastika sor tum ae somita aigu dotua..
 
 ## Embedded
 - [Every DDR RAM Explained In 11 Minutes](https://www.youtube.com/watch?v=-MSCpKfHzAU)
+- [All Modulation Types Explained in 3 Minutes](https://www.youtube.com/watch?v=c3eMoHuPRy0)
 
 ***
 
