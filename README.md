@@ -35,6 +35,9 @@ Romanastika sor tum ae somita aigu dotua..
 - [Progress made on AI-powered humanoid robots :: 60 Minutes](https://www.youtube.com/watch?v=CbHeh7qwils)
 - [MentorPi Open Source Robot Car: ROS2 & Raspberry Pi 5](https://www.youtube.com/watch?v=cUjPJp_xUIc)
 
+## Embedded
+- [Every DDR RAM Explained In 11 Minutes](https://www.youtube.com/watch?v=-MSCpKfHzAU)
+
 ***
 
 # Cyber
