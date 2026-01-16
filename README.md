@@ -27,6 +27,7 @@ Romanastika sor tum ae somita aigu dotua..
 
 ## MLOps
 - [MLOps Explained - What It Is, Why You Need It and How It Works](https://www.youtube.com/watch?v=biqYkVf-a7Y)
+- [What are State Space Models? Redefining AI & Machine Learning with Data](https://www.youtube.com/watch?v=HbZD0XoN5fc)
 
 ***
 
